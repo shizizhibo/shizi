@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://61.147.91.35:8080/live-resigned.ipa</string>
+                   <string>http://www.zz87291.com:1340/down2/live-resigned.ipa</string>
                </dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.mohe138.com:1340/down/img/icon.png</string>
+					<string>http://www.zz87291.com:1340/down2/img/icon.png</string>
 				</dict>
                <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.mohe138.com:1340/down/img/icon.png</string>
+                   <string>http://www.zz87291.com:1340/down2/img/icon.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.zhibo.shizi</string>
+               <string>com.zhibo.rexiu</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>狮子直播</string>
+               <string>热秀直播</string>
                <key>title</key>
-               <string>狮子直播</string>
+               <string>热秀直播</string>
            </dict>
        </dict>
    </array>
