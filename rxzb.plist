@@ -32,7 +32,7 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.zhibo.rexiu</string>
+               <string>com.rexiu.zhibo</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
